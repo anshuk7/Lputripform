@@ -29,4 +29,4 @@ GitHub Repository:
 ![Screenshot (138)](https://github.com/anshuk7/Lputripform/assets/82932368/eda87c86-27fb-4070-9035-178896b1fe37)
 ![Screenshot (139)](https://github.com/anshuk7/Lputripform/assets/82932368/a128ab12-819e-40b7-88de-a75cec0d00ea)
 ![Screenshot (140)](https://github.com/anshuk7/Lputripform/assets/82932368/257a2763-27f8-4211-ac51-657e6ceffa02)
-![Screenshot (141)](https://github.com/anshuk7/Lputripform/assets/82932368/b83cfb9c-a673-410c-9afb-e1a66df25596)
+![Screenshot (142)](https://github.com/anshuk7/Lputripform/assets/82932368/e53629c3-50f7-4af9-948d-06c64f2e5f17)
