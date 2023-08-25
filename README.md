@@ -22,3 +22,11 @@ PHP, MySQL, HTML, CSS
 
 GitHub Repository:
 [https://github.com/anshuk7/Lputripform]
+
+
+
+![Screenshot (137)](https://github.com/anshuk7/Lputripform/assets/82932368/106e53b2-5676-4542-8aa9-d9dc56fa2080)
+![Screenshot (138)](https://github.com/anshuk7/Lputripform/assets/82932368/eda87c86-27fb-4070-9035-178896b1fe37)
+![Screenshot (139)](https://github.com/anshuk7/Lputripform/assets/82932368/a128ab12-819e-40b7-88de-a75cec0d00ea)
+![Screenshot (140)](https://github.com/anshuk7/Lputripform/assets/82932368/257a2763-27f8-4211-ac51-657e6ceffa02)
+![Screenshot (141)](https://github.com/anshuk7/Lputripform/assets/82932368/b83cfb9c-a673-410c-9afb-e1a66df25596)
